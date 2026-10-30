@@ -1,2 +1,4 @@
 # starter
-#ödevin asıl dosyaları ödev2.md içindedir
+
+\#ödevin asıl dosyaları odev\_2 branchının içindedir.
+
